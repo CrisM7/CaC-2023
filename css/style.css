@@ -1,0 +1,121 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.superior
+{
+    width: 100% ;
+    color: white;
+    background-color:#313131;
+}
+
+
+
+#bsas
+{
+    margin-left: 15%;
+    font-size: 26px;
+}
+
+
+
+.supder
+{
+    margin-right: 15%;
+}
+
+
+
+.supder a
+{
+    color: #8A8989;
+    font-size: 18px;
+}
+
+
+
+#primero
+{
+    color: white;
+    font-size: 18px;
+}
+
+
+
+#primero:hover
+{
+    color: black;
+}
+
+
+
+#comprar
+{
+    color: #009612;
+    font-size: 18px;
+}
+
+
+
+#comprar:hover
+{
+    color: black;
+}
+
+
+
+.opcionescuadros
+{
+    margin-top: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+
+.cuadroscolor
+{
+    width: auto;
+}
+
+
+
+.textocentrado
+{
+    text-align: center;
+}
+
+
+
+.footer
+{
+    background-color: #154265;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+
+
+.margenesfinal
+{
+    display: flex;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-evenly;
+    color: white;
+    align-items: center;
+    font-size: 18px;
+}
+
+
+
+.textofooter:hover
+{
+    color: black;
+}
